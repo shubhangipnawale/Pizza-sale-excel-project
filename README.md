@@ -29,6 +29,7 @@ The analysis helps identify top-selling pizzas, peak order times, and revenue co
 ##📸 **Dashboard Preview**
 ![Pizza Sales Dashboard](./pizza-sales-dashboard.png)
 
+
 ##📚**Learning Outcomes**
 -Hands-on experience with sales data analysis
 -Improved Excel and Power BI dashboard skills
