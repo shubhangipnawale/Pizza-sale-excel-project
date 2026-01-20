@@ -27,7 +27,7 @@ The analysis helps identify top-selling pizzas, peak order times, and revenue co
  To help business stakeholders understand sales trends, optimize product offerings, and improve overall revenue through data-driven insights.
 
 ##📸 **Dashboard Preview**
-![Pizza Sales Dashboard](./pizza-sales-dashboard.png)
+![Pizza Sales Dashboard](pizza-sales-dashboard.png)
 
 
 ##📚**Learning Outcomes**
